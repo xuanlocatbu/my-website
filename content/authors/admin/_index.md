@@ -146,6 +146,4 @@ languages:
 
 ## About Me
 
-Xuan Loc Huynh is a Mathematics PhD student at Boston University with a strong quantitative foundation. He is passionate about applying advanced mathematical modeling, machine learning, and statistical analysis to real-world problems in data science and quantitative finance.
-
-This summer, he will join the Erdos Institute’s Quantitative Finance Boot Camp - a program tailored for PhDs seeking to pivot into industry roles. His goal is to secure an internship in summer 2026 where he can bring mathematical precision and data-driven insights to impactful projects.
+Xuan Loc Huynh is a Mathematics PhD student at Boston University. This summer, he will join the Erdos Institute’s Quantitative Finance Boot Camp - a program tailored for PhDs seeking to pivot into industry roles. His goal is to secure an internship in summer 2026 where he can bring mathematical precision and data-driven insights to impactful projects.
