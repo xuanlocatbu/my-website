@@ -49,8 +49,8 @@ interests:
 education:
   - area: PhD student in Mathematics
     institution: Boston University
-    date_start: 2024-09
-    date_end: 2029-05
+    date_start: 2024-09-01
+    date_end: 2029-05-30
     summary: |
       As a Mathematics PhD student at Boston University with a strong quantitative foundation, I am passionate about applying advanced mathematical modeling, machine learning, and statistical analysis to real-world problems in data science and quantitative finance.
     #button:
@@ -58,8 +58,8 @@ education:
     #  url: 'https://example.com'
   - area: Master of Science in Applied Mathematics
     institution: Tulane University
-    date_start: 2022-08
-    date_end: 2024-05
+    date_start: 2022-08-15
+    date_end: 2024-05-15
     summary: |
       GPA: 4.0/4.0
 
@@ -72,8 +72,8 @@ education:
       url: 'https://library.search.tulane.edu/permalink/01TUL_INST/1n9ahdd/alma9945559093506326'
   - area: Bachelor of Science in Mathematics Education
     institution: Ho Chi Minh University of Education
-    date_start: 2018-08
-    date_end: 2022-05
+    date_start: 2018-09-01
+    date_end: 2022-05-30
     summary: |
       GPA: 3.62/4.0
       
@@ -96,8 +96,8 @@ work:
     company_name: Department of Mathematics at Tulane University
     company_url: 'https://sse.tulane.edu/math'
     company_logo: 'D:\my-website\assets\media\image_tulane.png'
-    date_start: 2023-01
-    date_end: 2024-05
+    date_start: 2023-01-15
+    date_end: 2024-05-15
     summary: |
       I generally graded students' homework, provided solutions to the exercises in Complex Analysis and held Office Hours for Calculus I, II and Statistics.
 
@@ -143,7 +143,6 @@ languages:
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
 ## About Me
 
 Xuan Loc Huynh is a Mathematics PhD student at Boston University. This summer, he will join the Erdos Institute’s Quantitative Finance Boot Camp—a program tailored for PhDs seeking to pivot into industry roles. His goal is to secure an internship in summer 2026 where he can bring mathematical precision and data-driven insights to impactful projects.
