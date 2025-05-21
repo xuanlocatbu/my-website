@@ -9,10 +9,6 @@ name_pronunciation: swun lock hwin
 first_name: Xuan Loc
 last_name: Huynh
 
-# Status emoji
-status: 
-  icon: 💸
-
 # Is this the primary user of the site?
 superuser: true
 
