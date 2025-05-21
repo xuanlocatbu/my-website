@@ -1,6 +1,6 @@
 ---
 # Display name
-title: The Dreamy Guy
+title: Xuan Loc Huynh
 
 # Name pronunciation (optional)
 name_pronunciation: swun lock hwin
