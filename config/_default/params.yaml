@@ -28,6 +28,7 @@ marketing:
 
 # Site header
 header:
+  favicon: 'D:\my-website\assets\media\icons\icon.svg'
   navbar:
     enable: true
     blox: "navbar"
@@ -36,6 +37,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Xuan Loc Huynh"
+      icon: 'D:\my-website\assets\media\icons\icon.svg'
 
 # Site footer
 footer:

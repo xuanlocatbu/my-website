@@ -6,4 +6,8 @@ cascade:
   _build:
     render: never
     list: always
+design:
+  background:
+    image: 
+      filename: 'D:\my-website\assets\media\background.png'
 ---
