@@ -43,7 +43,7 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - APplied Mathematics
+  - Applied Mathematics
   - Data Science
 
 education:
@@ -59,7 +59,7 @@ education:
   - area: Master of Science in Applied Mathematics
     institution: Tulane University
     date_start: 2022-08
-    date_end: 2024-5
+    date_end: 2024-05
     summary: |
       GPA: 4.0/4.0
 
@@ -146,4 +146,5 @@ languages:
 
 ## About Me
 
+Xuan Loc Huynh is a Mathematics PhD student at Boston University. This summer, he will join the Erdos Institute’s Quantitative Finance Boot Camp—a program tailored for PhDs seeking to pivot into industry roles. His goal is to secure an internship in summer 2026 where he can bring mathematical precision and data-driven insights to impactful projects.
 Xuan Loc Huynh is a Mathematics PhD student at Boston University. This summer, he will join the Erdos Institute’s Quantitative Finance Boot Camp - a program tailored for PhDs seeking to pivot into industry roles. His goal is to secure an internship in summer 2026 where he can bring mathematical precision and data-driven insights to impactful projects.
